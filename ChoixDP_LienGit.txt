@@ -1,0 +1,5 @@
+1.
+On a choisit le DP Visitor car nous avions des fonctionnalités dans la hierarchie originale (médiathèque) et ce n'est pas pratique si l'on souhaite rajouter des fonctionnalités, on utilise alors un objet séparé : le visitor
+
+3. 
+https://github.com/lleflour14/TP_DP_Mediatheque.git
