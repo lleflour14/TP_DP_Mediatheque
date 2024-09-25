@@ -16,9 +16,12 @@ public abstract class Item {
 
 	public abstract void print();
 
+
 	@Override
 	public String toString() {
 		return title;
 	}
-	
+
+	public abstract void accept(MediaVisitor v);
+
 }
